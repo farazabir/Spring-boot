@@ -34,7 +34,7 @@ public class CrudApplication {
 		//display id of the saved student
 		System.out.println("Saved student id: " + student.getId());
 		System.out.println("Saved student id: " + student.getFirstName());
-		System.out.println("Saved student id: " + student.getEmail());
+		 System.out.println("Saved student id: " + student.getEmail());
 	}
 
 }
